@@ -54,7 +54,8 @@ h1 {
 .exp-img {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
-  background-position: 0px 180px;
+  background-position: 0px 220px;
+  background-size: 50px 110px;
 }
 .border-exp {
   border-left: 7px solid;
@@ -82,4 +83,7 @@ h1 {
 .footer-text {
   text-align: center;
   color: gray;
+}
+#exp-heading {
+  margin-left: 50px;
 }
