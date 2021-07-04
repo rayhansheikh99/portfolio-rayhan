@@ -1,0 +1,85 @@
+body {
+  font-family: "PT Serif", serif;
+  margin: 0%;
+}
+section {
+  margin-bottom: 150px;
+}
+.section-width {
+  display: flex;
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.section-width-dream {
+  display: flex;
+}
+.section-width-exp {
+  display: flex;
+}
+.dream-big {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.rayhan-img {
+  width: 80%;
+}
+.half-width {
+  width: 50%;
+  padding-left: 70px;
+}
+h1 {
+  font-size: 50px;
+}
+.rayhan-color {
+  color: orange;
+}
+.hire-me {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 6px 30px;
+  color: aliceblue;
+}
+.margin-dream {
+  margin-right: 120px;
+}
+.margin-exp {
+  margin-right: 80px;
+  margin-left: 50px;
+}
+.margin-exp2 {
+  margin-right: 50px;
+  margin-left: 0px;
+}
+.exp-img {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: 0px 180px;
+}
+.border-exp {
+  border-left: 7px solid;
+  border-image: linear-gradient(rgb(110, 91, 54), tomato);
+  border-image-slice: 1;
+  box-shadow: 5px 10px 50px 7px gray;
+  width: 700px;
+  padding: 30px;
+}
+.border-exp2 {
+  border-left: 7px solid;
+  border-image: linear-gradient(rgb(43, 113, 126), rgb(252, 48, 12));
+  border-image-slice: 1;
+  box-shadow: 5px 10px 50px 7px gray;
+  width: 700px;
+  padding: 30px;
+}
+
+.exp-font {
+  font-size: 40px;
+}
+.exp-orange {
+  color: orange;
+}
+.footer-text {
+  text-align: center;
+  color: gray;
+}
